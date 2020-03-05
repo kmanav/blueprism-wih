@@ -7,7 +7,7 @@ This custom task enables integrating RHPAM (a.k.a jBPM) with BluePrism RPA. With
 
 ## How to Use
 
-A detailed guide can be found at [Integrating Red Hat Process Automation Manager with BluePrism Digital Workforce](https://kmacedovarela.github.io/blueprism/guide/guide.html).
+A detailed guide can be found at [Integrating Red Hat Process Automation Manager with BluePrism Digital Workforce](https://redhat-ba-partners.github.io/blueprism/guide/guide.html).
 
 ## About this BluePrism Task
 
